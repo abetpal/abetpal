@@ -58,7 +58,7 @@
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=abetpal" alt="abetpal" /></p>
 
 <!--
-**tapixhx/tapixhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
