@@ -48,12 +48,12 @@
 <br/>
 <br/>
 
-<h2>👯 Visitor's count :eyes:</h2>
+<!--<h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/{abetpal}/count.svg" alt="Abhinav's :: Visitor's Count" /></p>
 
 <br/>
-<br/>
+<br/>-->
 
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=abetpal" alt="abetpal" /></p>
 
