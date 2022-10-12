@@ -22,7 +22,7 @@
 </a>
 <br/>
 
-<h3>🌱 Have a look at my coding profiles 👇</h3>
+<!--<h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://codeforces.com/profile/nobrakebicycle" target="_blank">
 	<img align="left" alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
 </a>
@@ -32,7 +32,7 @@
 <a href="https://www.hackerrank.com/nobrakebicycle" target="_blank">
   <img align="left" alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
 </a>
-<br/>
+<br/>-->
 <br/>
 
 <h2> ✔️ Skills: </h2>
