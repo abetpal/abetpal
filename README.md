@@ -32,8 +32,8 @@
 <a href="https://www.hackerrank.com/nobrakebicycle" target="_blank">
   <img align="left" alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
 </a>
-<br/>-->
 <br/>
+<br/>-->
 
 <h2> ✔️ Skills: </h2>
 <img align="left" alt="C++" width="40" height="40" src="./svgs/c.svg" />
