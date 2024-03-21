@@ -7,12 +7,6 @@
 <a href="https://www.linkedin.com/in/nobrakebicycle" target="_blank">
   <img align="left" alt="Linkdein" height="40" width="40" src="./svgs/linkedin.svg" />
 </a>
-<a href="https://t.me/nobrakebicycle" target="_blank">
-  <img align="left" alt="Telegram"height="40" width="40" src="./svgs/Telegram_logo.svg" />
-</a>
-<a href="mailto:patelabhinav61@gmail.com" target="_blank"> 
-    <img align="left" alt="Gmail" height="40" width="40" src="./svgs/gmail.svg" />
-</a>
 <br/>
 <br/>
 
